@@ -25,7 +25,7 @@ This project utilizes YOLO (You Only Look Once), a deep learning algorithm for r
 
 ## Project Architecture
 
-![YOLO Architecture](source/yolo_architecture.png)
+![YOLO Architecture](source/yolo.avif)
 
 The project architecture diagram illustrates the flow of data and processes in the YOLO-based object detection system.
 
@@ -33,7 +33,7 @@ The project architecture diagram illustrates the flow of data and processes in t
 
 ## Implementation Flowchart
 
-![Implementation Flowchart](source/imp_flowchart.png)
+![Implementation Flowchart](source/imp.jpg)
 
 The flowchart outlines the step-by-step process of implementing real-time object detection using YOLO.
 
@@ -43,13 +43,13 @@ The flowchart outlines the step-by-step process of implementing real-time object
 
 ### Example 1
 
-![Example 1](source/1.png)
+![Example 1](source/1.jpeg)
 
 Description: Provide a brief description or context for the first example image.
 
 ### Example 2
 
-![Example 2](source/2.png)
+![Example 2](source/2.jpeg)
 
 Description: Provide a brief description or context for the second example image.
 
