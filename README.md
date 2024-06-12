@@ -1,7 +1,7 @@
 
 # Real-Time Object Detection using YOLO
 
-![Header Image](source/header.png)
+![Header Image](source/header.jpg)
 
 ## Developer: Yuvraj Singh Chowdhary
 [LinkedIn Profile](https://www.linkedin.com/in/yuvraj-singh-chowdhary/)
