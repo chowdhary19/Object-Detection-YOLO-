@@ -25,7 +25,7 @@ This project utilizes YOLO (You Only Look Once), a deep learning algorithm for r
 
 ## Project Architecture
 
-![YOLO Architecture](source/yolo.avif)
+![YOLO Architecture](source/yolov3.jpg)
 
 The project architecture diagram illustrates the flow of data and processes in the YOLO-based object detection system.
 
